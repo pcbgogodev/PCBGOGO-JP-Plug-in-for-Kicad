@@ -45,7 +45,7 @@ class KiCadToPCBGOGOForm(wx.Frame):
 
 class PCBGOGOPlugin(pcbnew.ActionPlugin):
     def __init__(self):
-        self.name = "PCBGOGO Plug-in for KiCad"  # 插件名称
+        self.name = "PCBGOGO JP Plug-in for KiCad"  # 插件名称
         self.category = "Manufacturing"  # 描述性类别名称
         self.description = "Start prototype and assembly by sending files to PCBGOGO with just one click."  # 对插件及其功能的描述
         self.pcbnew_icon_support = hasattr(self, "show_toolbar_button")
