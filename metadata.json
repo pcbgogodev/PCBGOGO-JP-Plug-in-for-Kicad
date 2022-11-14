@@ -1,8 +1,8 @@
 ﻿{
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
     "name": "KiCad用PCBGOGOプラグイ",
-    "description": "ワンクリックで PCBGOGOサイト にファイルを送信して、基板製造と部品実装サービスを利用しましょう。",
-    "description_full": "利用Click this plugin for high quality prototyping and assembly services, PCBGOGO will commit to meeting your needs to the greatest extent.\n\nWhen you click PCBGOGO Plug-in button, we will export these files in your project:\n\n1. Gerber files in correct format for production\n2. IPC-Netlist file\n3. Bom-file that includes all information of components (please note designator, quantity, MPN/part number, package/footprint are necessary)\n4. Pick and Place-file used in assembly\n\nYou can click \"Save to Cart\" to place an order immediately after uploading the files ( usually only takes a few seconds), our engineers will double check the files before the production.\n\nAbout PCBGOGO:\n\nPCBGOGO is a Chinese company specializing in PCB prototyping and assembly, devotes to offer one-stop service. The build-time for standard PCBs is 24hrs. Our upgraded material with TG150-160 costs as low as $5/10pcs while our remarkable after-sale services are standing by for any questions you may encounter. As a sponsor of KiCad, we will always support its development.",
+    "description": "PCBGOGOを送信して、基板製造と部品実装サービスを利用しましょう。",
+    "description_full": "KiCadでプリント基板の設計が完了すると、PCBGOGOプラグインボタンをクリックする\nことですぐに見積りをすることができ、PCBGOGOウェブ簡単見積もりページにプリント\n基板のレイアウトファイルが送信され、製造価格が自動的に計算されます。\n注意点：デフォルトの注文数量は5個です。\nPCBGOGOについて\nPCBGOGOは、クイックターンPCBの試作品やプリント基板の組み立てだけでなく、\n中・小容量のプリント基板の製造にも高い専門性に特化しています。三つの工場が\n17,000平方メートル以上の規模で設立されています。",
     "identifier": "com.github.pcbgogo.PCBGOGO-JP-Plug-in-for-Kicad",
     "type": "plugin",
     "author": {
