@@ -21,8 +21,8 @@ https://www.kicad.org/download/
 
 Kicadホームページの 「プラグインとコンテンツマネージャ」 をクリックして、プラグインウィンドウで 「PCBGOGO」 を検索し、インストールしてください
 
-![image](https://github.com/pcbgogodev/PCBgogo-Plug-in-for-Kicad/blob/main/p1.png)
-![image](https://github.com/pcbgogodev/PCBgogo-Plug-in-for-Kicad/blob/main/p2.png)
+![image](https://github.com/pcbgogodev/PCBgogo-Plug-in-for-Kicad/blob/main/JP1.png)
+![image](https://github.com/pcbgogodev/PCBgogo-Plug-in-for-Kicad/blob/main/JP2.png)
 
 プラグインをダウンロードしてインストールすると、KiCadでプラグインを使用できるようになります
 次に、プラグインを手動でダウンロードしてインストールしてください
@@ -33,7 +33,7 @@ https://github.com/pcbgogodev/PCBgogo-Plug-in-for-Kicad/releases
 
 KiCadプラグインウィンドウで 「ファイルからインストール」 を選択し、ダウンロードしたzipファイルを選択して、インストールを完させてください
 
-![image](https://github.com/pcbgogodev/PCBgogo-Plug-in-for-Kicad/blob/main/p3.png)
+![image](https://github.com/pcbgogodev/PCBgogo-Plug-in-for-Kicad/blob/main/JP3.png)
 
 
 ### 1回クリックするだけで、プリント基板のレイアウトが生き生きと再現されます
@@ -44,7 +44,7 @@ KiCadでプリント基板の設計が完了すると、PCBGOGOプラグイン�
 
 注意点：デフォルトの注文数量は5個です
 
-![image](https://github.com/pcbgogodev/PCBgogo-Plug-in-for-Kicad/blob/main/p4.png)
+![image](https://github.com/pcbgogodev/PCBgogo-Plug-in-for-Kicad/blob/main/JP4.png)
 
 
 PCBGOGOについて
