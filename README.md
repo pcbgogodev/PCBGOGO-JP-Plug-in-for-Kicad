@@ -9,7 +9,7 @@ KiCadとは、電子設計自動化のためのフリーソフトウェアスイ
 
 ### Kicad用PCBGOGOプラグイン - 完全ガイド
 
-[![PCBGOGO_Plugin for Kicad](https://res.cloudinary.com/marcomontalbano/image/upload/v1664503748/video_to_markdown/images/youtube--nrD2UYZUigQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/embed/nrD2UYZUigQ "PCBGOGO_Plugin for Kicad")
+[![PCBGOGOプラグイン経由で KiCadを起動します](https://res.cloudinary.com/marcomontalbano/image/upload/v1664503748/video_to_markdown/images/youtube--nrD2UYZUigQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/embed/nrD2UYZUigQ "PCBGOGO_Plugin for Kicad")
 
 
 ### Kicad用PCBGOGOプラグインのインストール方法
