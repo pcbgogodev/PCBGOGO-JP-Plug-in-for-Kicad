@@ -34,7 +34,7 @@ https://github.com/pcbgogodev/PCBGOGO-JP-Plug-in-for-Kicad/releases
 
 KiCadプラグインウィンドウで 「ファイルからインストール」 を選択し、ダウンロードしたzipファイルを選択して、インストールを完させてください
 
-![image](https://github.com/pcbgogodev/PCBgogo-Plug-in-for-Kicad/blob/main/JP3.png)
+![image](https://github.com/pcbgogodev/PCBgogo-Plug-in-for-Kicad/blob/main/JP31.png)
 
 
 ### 1回クリックするだけで、プリント基板のレイアウトが生き生きと再現されます
