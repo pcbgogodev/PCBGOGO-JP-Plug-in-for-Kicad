@@ -29,7 +29,8 @@ Kicadホームページの 「プラグインとコンテンツマネージャ�
 
 
 プラグインファイルは、GitHubページよりダウンロードしてください：
-https://github.com/pcbgogodev/PCBgogo-Plug-in-for-Kicad/releases
+
+https://github.com/pcbgogodev/PCBGOGO-JP-Plug-in-for-Kicad/releases
 
 KiCadプラグインウィンドウで 「ファイルからインストール」 を選択し、ダウンロードしたzipファイルを選択して、インストールを完させてください
 
@@ -53,7 +54,7 @@ PCBGOGOは、クイックターンPCBの試作品やプリント基板の組み�
 2017年から運営しているPCBGOGOは、世界中の10万以上の顧客に5000万ドル相当の電子部品とプロトタイピングサービスをご提供してまいりました
 すべての注文は、PCBGOGOのエンジニアによって確認されます。弊社の原則は、私たちの事業を活用して、お客様が期待するものを正確に得ることです
 
-詳しくはホームページをご覧ください：www.pcbgogo.com
+詳しくはホームページをご覧ください：www.pcbgogo.jp
 
 ### Kicadについて
 
